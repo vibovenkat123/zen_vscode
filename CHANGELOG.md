@@ -8,3 +8,7 @@
 
 ## [0.0.3]
 - Fixed icon path
+
+# [0.0.4]
+- Made functions and keywords not white
+- Changed git colors

@@ -11,7 +11,7 @@
   "icon": "assets/icon.png",
   "displayName": "Zen for vscode",
   "description": "A minimal theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "ZenTheme",
   "engines": {
     "vscode": "^1.79.0"
