@@ -1,0 +1,34 @@
+{
+  "name": "zen-color-theme",
+  "keywords": [
+      "minimal",
+      "Vaibhav Venkat",
+      "Zen",
+      "vibovenkat123",
+      "vibovenkat"
+  ],
+  "displayName": "Zen for vscode",
+  "description": "A minimal theme",
+  "version": "0.0.1",
+  "publisher": "Vaibhav Venkat",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vibovenkat123/zen_vscode"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zen-color-theme.json"
+      }
+    ]
+  }
+}
