@@ -5,12 +5,13 @@
       "Vaibhav Venkat",
       "Zen",
       "vibovenkat123",
-      "vibovenkat"
+      "vibovenkat",
+      "theme"
   ],
   "displayName": "Zen for vscode",
   "description": "A minimal theme",
   "version": "0.0.1",
-  "publisher": "Vaibhav Venkat",
+  "publisher": "ZenTheme",
   "engines": {
     "vscode": "^1.79.0"
   },
